@@ -1,10 +1,10 @@
 # Sobre Mim
 
 
-- 👋 Ola, I’m @XxDeuyx
+- 👋 Ola, I’m **@XxDeuyx**
 - 👍 Meu e-mail de contato é:
-- 👀 Estou interessada em aprender a programar
-- 🌱 Atualmente estou aprendendo HTML
+- 👀 *Estou interessada em aprender a programar*
+- 🌱 Atualmente estou aprendendo **HTML**
 
 
 <!---
