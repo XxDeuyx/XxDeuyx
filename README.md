@@ -4,7 +4,7 @@
 - 👋 Ola, I’m **@XxDeuyx**
 - 👍 Meu e-mail de contato é:
 - 👀 *Estou interessada em aprender a programar*
-- 🌱 Atualmente estou aprendendo **HTML**
+- 🌱 Atualmente estou aprendendo **HTML** e **CSS**, mas quero aprender também **JavaScript**
 
 
 <!---
